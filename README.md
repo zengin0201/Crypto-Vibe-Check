@@ -2,6 +2,8 @@
 
 A minimalist, high-performance market sentiment tracker built with **React** and **Framer Motion**. It fetches real-time data from the "Fear & Greed Index" to show whether the crypto market is panicking or feeling greedy.
 
+## 🎥Preview 
+<img width="2516" height="1338" alt="Снимок экрана 2026-04-09 142910" src="https://github.com/user-attachments/assets/1a558c12-89db-44cb-b66b-7f2010768889" />
 
 
 ## ⚡️ Key Features
